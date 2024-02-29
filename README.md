@@ -1,10 +1,10 @@
 # Hello there
 
-I'm Michał and I do mostly game dev related projects in Unity/C# both as a hobby and professionally. I've built cross-platform games (WebGL, Windows and Android), and AR/VR edutainment apps. Often, I do things like implementing gameplay mechanics, UI logic, systems, and tools. I rarely may be doing something in JS (web apps), Python (APIs, ML, automations) or C++ (OpenGL).
+I'm Michał and I do mostly game dev related projects in Unity/C# both as a hobby and professionally. I've built cross-platform games (WebGL, Windows and Android), and AR/VR edutainment apps. Often, I do things like implementing gameplay mechanics, UI logic, systems, and tools. Sometimes I'll do something in JS (web apps), Python (APIs, ML, automations) or C++ (OpenGL).
 
-Besides game development, I'm interested in procedural content generation and (as a part of it) generative machine learning methods. Spent some time studying these as a part of my bachelor's and master's theses.
+Besides game development, I'm interested in procedural content generation and (as a part of it) generative machine learning methods. I spent some time studying these as a part of my bachelor's and master's theses.
 
-You can see some stuff mentioned above here in my [repos](https://github.com/m-biernat?tab=repositories) and on my [itch.io](https://m-biernat.itch.io/) profile. It ain't much, but it's honest work :)
+You can see some of the stuff mentioned above here in my [repos](https://github.com/m-biernat?tab=repositories) and on my [itch.io](https://m-biernat.itch.io/) profile. It ain't much, but it's honest work :)
 
 ---
 
